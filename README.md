@@ -1,2 +1,1 @@
-# Prep-Course-Henry
-repositorio de mi prep course henry
+crear un repositorio y clonarlo
